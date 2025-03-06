@@ -6,3 +6,5 @@ https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
 
 I2C Address List: 
 https://i2cdevices.org/addresses
+
+![title](ESP 32 Wroom-32 pin allocation.jpg)
